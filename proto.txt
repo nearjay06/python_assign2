@@ -1,0 +1,11 @@
+General instructions
+
+Create a python package for this assignment.
+add each number in a separate module
+Create a third module to import and use/call the two functions created in questions 1 and 2.
+
+1. Write a python function that takes a list and returns a new list with uniqiue elements 
+of the first list. Don't use list methods.
+
+2. Write a python program to print the even numbers from a given list. Go to the editor 
+sample list:[1,2,3,4,5,6,7,8,9] Expected result:[2,4,6,8]
